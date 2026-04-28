@@ -1,19 +1,17 @@
 # Portex
 
-Cinematic space-travel portfolio landing page for Ajay Varada.
+Premium cinematic AI/video/automation portfolio for Ajay Varada, built with React 19, Vite, TypeScript, and Tailwind CSS v4.
 
-## Stack
-
-- Static HTML
-- Tailwind CDN
-- React 18 UMD
-- Babel standalone
-- Framer Motion UMD
-
-## Local Preview
+## Run Locally
 
 ```bash
-python3 -m http.server 4174
+npm install
+npm run dev
 ```
 
-Open `http://127.0.0.1:4174`.
+## Validate
+
+```bash
+npm run lint
+npm run build
+```
